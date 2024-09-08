@@ -1,0 +1,12 @@
+Package: AnVILMEDFORD
+Title: Bidirectional Metadata Management for AnVIL using MEDFORD
+Version: 0.1.0.9000
+Authors@R:
+    person("BJ", "Stubbs", , "benjamin.stubbs@tufts.edu", role = c("aut", "cre"))
+Description: AnVILMEDFORD is a package aimed to create MEDFORD documentation for
+ an AnVIL workspace, and also allow a user to update the workspace using existing
+ documentation
+License: use_mit_license()
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
